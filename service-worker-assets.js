@@ -33,7 +33,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-0w4Y5Y9Nqq2SG8BWyfJmTMicYn7VodXNnu+5wC\/dcDA=",
+      "hash": "sha256-VVPEFJInkYTdG+aPp1eAR\/wAXhuJahNASUOgdbDjwk8=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -137,7 +137,7 @@
       "url": "_framework\/System.Net.Primitives.wasm"
     },
     {
-      "hash": "sha256-57CgLNlLxlMQBAq+ltLfx1+x+x2ZiKd3SXI3ypcC\/U4=",
+      "hash": "sha256-0dawUp5W4hZa1W+4ocA2RlERtrL+49e77cEPlz7OVnM=",
       "url": "_framework\/System.Private.CoreLib.wasm"
     },
     {
@@ -153,7 +153,7 @@
       "url": "_framework\/System.Runtime.InteropServices.wasm"
     },
     {
-      "hash": "sha256-q6t9I2gZzbZJYBwBuMPBX3vnaoO+yf6ZMv+i0Dtll9Q=",
+      "hash": "sha256-Al88PGDtEr61TehRnqNGXRl26WG994dc0\/KNkVAsOcw=",
       "url": "_framework\/System.Runtime.wasm"
     },
     {
@@ -173,7 +173,7 @@
       "url": "_framework\/System.Threading.wasm"
     },
     {
-      "hash": "sha256-T0FQDJK7OPnC\/YTaXaRedY0ukfyTT02oECHY0bxDi14=",
+      "hash": "sha256-gTJM8AEsQUh4t9v\/Zft4IlU8ZcapcBsKcUAMRVPqnj0=",
       "url": "_framework\/VisualizadorDeLeyes.wasm"
     },
     {
@@ -213,8 +213,8 @@
       "url": "Leyes\/Constitucion_espanola.json"
     },
     {
-      "hash": "sha256-LwOtpAlUjy7TCx+RGts4VQVInbGO\/2Paw6vtOTuzz3E=",
-      "url": "Leyes\/otraley.json"
+      "hash": "sha256-ZNwDIkg440xP\/krgPREZLFPUY7QEQPVw+f7dH1yrbjE=",
+      "url": "Leyes\/trebep.json"
     },
     {
       "hash": "sha256-lPP9iBvjZW4QXERrQoWjaMWwpT2oXEVT0tUkNtdTH6Q=",
@@ -225,5 +225,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "hFHQKa0T"
+  "version": "d7jQMxA+"
 };
