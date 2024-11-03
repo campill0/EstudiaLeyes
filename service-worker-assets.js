@@ -33,7 +33,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-IZYySK8yKe54uyNiNfpmUuZIb8UY42Tw+X3ZXmOwP+k=",
+      "hash": "sha256-lmvya0a3JjtAuFnfdON+gDGk4w57sk9l2ABxUTaRKMs=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -173,7 +173,7 @@
       "url": "_framework\/System.Threading.wasm"
     },
     {
-      "hash": "sha256-k+XAUsRzGfuxRU\/cSv0loUBSXPBJ4lDH8auWYj49NuQ=",
+      "hash": "sha256-LrRZ25f5Pq8n5OKAhpZ8fbJP\/6tZdz+8XtjPKqQ7TJQ=",
       "url": "_framework\/VisualizadorDeLeyes.wasm"
     },
     {
@@ -218,14 +218,14 @@
     },
     {
       "hash": "sha256-zCnmVxIiYq11e6xYOXjAo4kMcHuyFb164gfGH1Qz+vw=",
-      "url": "Leyes\/ley_40.json"
+      "url": "Leyes\/Ley_40.json"
     },
     {
       "hash": "sha256-HmKZovnXd6Y\/A9k3PBN4kTSYJlM31d7yXQaP+pNCPMY=",
       "url": "Leyes\/ley_haciendas_locales.json"
     },
     {
-      "hash": "sha256-+DXr7lt+Pf69UhCqkvgy+7Zy1gGUQGEG0aR3Q+70FdE=",
+      "hash": "sha256-j4JPcJGFaBYtT+TgAf0KPyxtgwz7N1lPPVfKeeBRHGY=",
       "url": "Leyes\/Ley_igualdad.json"
     },
     {
@@ -235,6 +235,14 @@
     {
       "hash": "sha256-Y7JIVXg4f+CPJPZ0R3LlyRq3SWj\/TdGOJOP2i5TebyQ=",
       "url": "Leyes\/Ley_transparencia.json"
+    },
+    {
+      "hash": "sha256-wqLHpdW\/\/2u+Wy2VHT9WhII3TGIqSyAQiAxNdMenWkc=",
+      "url": "Leyes\/Lopdgdd.json"
+    },
+    {
+      "hash": "sha256-Wjdz0\/3XSixqImbw\/u1YjzoQ4WyHy7MfuV2+YNK7pcA=",
+      "url": "Leyes\/Rgpd.json"
     },
     {
       "hash": "sha256-ZfG6BnkkfFH65vXrZ2Hsf52zsIQB+O4lgYsMUn4tK9w=",
@@ -249,5 +257,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "IQhQsXWo"
+  "version": "fiTKfgne"
 };
