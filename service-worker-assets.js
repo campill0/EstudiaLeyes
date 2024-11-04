@@ -33,7 +33,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-lmvya0a3JjtAuFnfdON+gDGk4w57sk9l2ABxUTaRKMs=",
+      "hash": "sha256-mXkYe51WNNxAGyLA+KafNVFAhnKwcR148ll4oWc2QJo=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -173,7 +173,7 @@
       "url": "_framework\/System.Threading.wasm"
     },
     {
-      "hash": "sha256-LrRZ25f5Pq8n5OKAhpZ8fbJP\/6tZdz+8XtjPKqQ7TJQ=",
+      "hash": "sha256-3cZ1PAnOD9FbeU2PuZ4RI7Fnt0OvFs\/ZrkvEs30j9Wc=",
       "url": "_framework\/VisualizadorDeLeyes.wasm"
     },
     {
@@ -211,6 +211,10 @@
     {
       "hash": "sha256-H1C9AK+vBsXR3SQJIHeZMJhdgngUqgglhgetsPAIzAE=",
       "url": "Leyes\/Constitucion_espanola.json"
+    },
+    {
+      "hash": "sha256-2yllmf7nV6xCuu671N68uBZIElydy4lRGpv0JEtrNbw=",
+      "url": "Leyes\/Eidas.json"
     },
     {
       "hash": "sha256-4N3eLKi6b4t+iDi88+UC5vdMqFONJ7hSEcBbgFda6A4=",
@@ -257,5 +261,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "fiTKfgne"
+  "version": "\/GHXLgB4"
 };
