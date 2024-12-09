@@ -33,7 +33,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-mXkYe51WNNxAGyLA+KafNVFAhnKwcR148ll4oWc2QJo=",
+      "hash": "sha256-rQmrEc4sVSAlrPuQflFgJNJ\/Xm2tPZgZ98voz7sFc9g=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -173,7 +173,7 @@
       "url": "_framework\/System.Threading.wasm"
     },
     {
-      "hash": "sha256-3cZ1PAnOD9FbeU2PuZ4RI7Fnt0OvFs\/ZrkvEs30j9Wc=",
+      "hash": "sha256-IoE\/5bD7siRFdMJm8L7ghO1zZMArnft6ZzSlzCCtxZc=",
       "url": "_framework\/VisualizadorDeLeyes.wasm"
     },
     {
@@ -225,6 +225,10 @@
       "url": "Leyes\/Ley_40.json"
     },
     {
+      "hash": "sha256-JV0ExKdg6\/vKMlbvfNWTIKP\/oY95icXFQPvZ84s3fIM=",
+      "url": "Leyes\/Ley_6_2020.json"
+    },
+    {
       "hash": "sha256-HmKZovnXd6Y\/A9k3PBN4kTSYJlM31d7yXQaP+pNCPMY=",
       "url": "Leyes\/ley_haciendas_locales.json"
     },
@@ -245,6 +249,10 @@
       "url": "Leyes\/Lopdgdd.json"
     },
     {
+      "hash": "sha256-BT7kKiFOmr5cxyoysNYbKMtwk9rBNbrFZc6JPRf1t\/A=",
+      "url": "Leyes\/Real_Decreto_1553_2005_Dni.json"
+    },
+    {
       "hash": "sha256-Wjdz0\/3XSixqImbw\/u1YjzoQ4WyHy7MfuV2+YNK7pcA=",
       "url": "Leyes\/Rgpd.json"
     },
@@ -261,5 +269,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "\/GHXLgB4"
+  "version": "wvvm6YQv"
 };
