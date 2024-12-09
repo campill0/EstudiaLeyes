@@ -33,7 +33,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-rQmrEc4sVSAlrPuQflFgJNJ\/Xm2tPZgZ98voz7sFc9g=",
+      "hash": "sha256-\/t9Dgv7fJ2LgxuG0njCiE2tt5TKy026uhaACZ\/ucyUA=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -173,7 +173,7 @@
       "url": "_framework\/System.Threading.wasm"
     },
     {
-      "hash": "sha256-IoE\/5bD7siRFdMJm8L7ghO1zZMArnft6ZzSlzCCtxZc=",
+      "hash": "sha256-QFg+\/EQlHjsHM7KbAdKCBh7oBh\/MKP5HlTvA\/cFqW0k=",
       "url": "_framework\/VisualizadorDeLeyes.wasm"
     },
     {
@@ -230,7 +230,7 @@
     },
     {
       "hash": "sha256-HmKZovnXd6Y\/A9k3PBN4kTSYJlM31d7yXQaP+pNCPMY=",
-      "url": "Leyes\/ley_haciendas_locales.json"
+      "url": "Leyes\/Ley_haciendas_locales.json"
     },
     {
       "hash": "sha256-j4JPcJGFaBYtT+TgAf0KPyxtgwz7N1lPPVfKeeBRHGY=",
@@ -269,5 +269,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "wvvm6YQv"
+  "version": "pX+ex3qb"
 };
